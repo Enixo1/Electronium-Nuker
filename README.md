@@ -2,7 +2,7 @@
 
 Language: Python 3.12.5+
 Operating System: Windows
-Internet
+Internet: Requires internet connectivity
 
 # Installation
 
