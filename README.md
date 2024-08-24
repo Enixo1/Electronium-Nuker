@@ -18,6 +18,12 @@ Include the information of your bot and the Guild, and your selfbot config to ge
 
 Run "Electronium.exe", or run the source code instead if you are not feeling okay with running random executables on your computer.
 
+# Features
+
+Selfbot
+
+DM Spammer
+
 # Disclaimer
 
 The developer is no way responsible for any damage caused by this program in any way, you are the only one responsible about your actions while using this tool, this tool was made for demonstration and testing purposes and its published for the public to use it wisely.
